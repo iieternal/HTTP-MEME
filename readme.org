@@ -1,0 +1,5 @@
+* HTTP/MEME
+
+HTTP codes as Malayalam memes.
+
+[[https://www.figma.com/file/HdmZpSYwaONnPiukBeCKHU/HTTP%2FMEME?node-id=0%3A1&viewport=87%2C266%2C0.2719721794128418][Template figma file available.]]
